@@ -1,0 +1,8 @@
+#+TITLE: Edit Treemacs Workspaces & Projects
+# Call ~treemacs-finish-edit~ or press ~C-c C-c~ when done.
+# [[https://github.com/Alexander-Miller/treemacs#conveniently-editing-your-projects-and-workspaces][Click here for detailed documentation.]]
+# To cancel you can simply kill this buffer.
+
+* Default
+** shravan
+ - path :: ~/Documents
